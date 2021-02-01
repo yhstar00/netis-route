@@ -1,4 +1,4 @@
-###### Test by yqb
+## This is a vulnerability test for Netcore / Netis router command execution.
 # Test command inject.
   ### 1.Use the PS command to inject into the product(WF2411 V1.1.29629)
   ![](https://github.com/yhstar00/netis-route/blob/main/1.png)
