@@ -1,4 +1,4 @@
 ###### test by yqb
-# test command inject.
-### use ;ps
-![](https://github.com/yhstar00/netis-route/blob/main/0.png)
+# Test command inject.
+  ### 1.use ;ps 
+  ![](https://github.com/yhstar00/netis-route/blob/main/1.png)
