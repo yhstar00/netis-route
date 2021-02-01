@@ -1,7 +1,7 @@
 ###### Test by yqb
 # Test command inject.
   ### 1.Use the PS command to inject into the product(WF2411 V1.1.29629)
-  ### ![](https://github.com/yhstar00/netis-route/blob/main/1.png)
+  ![](https://github.com/yhstar00/netis-route/blob/main/1.png)
   ![](https://github.com/yhstar00/netis-route/blob/main/2.png)
   ### 2.Use the PS command to inject into the product(WF2780 V2.3.40404)
   ![](https://github.com/yhstar00/netis-route/blob/main/6.png)
@@ -15,4 +15,4 @@
 # Test Netcore / Netis route Remote Command Inject On python.
   ### We made it!
   ![](https://github.com/yhstar00/netis-route/blob/main/7.png)
-# Thinks,Done.
+# Thinks,It's Done.
