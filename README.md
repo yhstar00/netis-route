@@ -12,3 +12,6 @@
   ![](https://github.com/yhstar00/netis-route/blob/main/4.png)
   ### 3.We can see that the process id is 15755,We made it!
   ![](https://github.com/yhstar00/netis-route/blob/main/5.png)
+# Test Netcore / Netis route Remote Command Inject On python.
+  ### We made it!
+  ![](https://github.com/yhstar00/netis-route/blob/main/7.png)
