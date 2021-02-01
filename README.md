@@ -10,5 +10,5 @@
   ![](https://github.com/yhstar00/netis-route/blob/main/3.png)
   ### 2.Use command telnetd inject
   ![](https://github.com/yhstar00/netis-route/blob/main/4.png)
-  ### 3.We can see process id 15755
+  ### 3.We can see that the process id is 15755
   ![](https://github.com/yhstar00/netis-route/blob/main/5.png)
